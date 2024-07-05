@@ -16,6 +16,3 @@ You can share information about yourself with the community on GitHub.com by cre
 - Contributions you're proud of, and context about those contributions
 - Guidance for getting help in communities where you're involved
 
-Here’s an example of a Campus Expert profile README
-<img width="1367" alt="Screen Shot 2023-03-13 at 2 55 41 PM" src="https://user-images.githubusercontent.com/107881423/224805660-26f7272f-6df1-42c0-b4c4-f3b2d790dd65.png">
-
